@@ -1,7 +1,8 @@
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   providers:[
     {
-      domain:'https://equal-moth-69.clerk.accounts.dev',
+      domain:'https://maximum-caiman-53.accounts.dev',
       applicationID:"convex", 
     }
   ]
