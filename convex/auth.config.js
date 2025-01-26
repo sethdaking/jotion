@@ -2,7 +2,7 @@
 export default {
   providers:[
     {
-      domain:'https://maximum-caiman-53.accounts.dev',
+      domain:'https://maximum-caiman-53.clerk.accounts.dev',
       applicationID:"convex", 
     }
   ]
